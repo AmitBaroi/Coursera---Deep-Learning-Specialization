@@ -1,5 +1,10 @@
 **Course 1:** [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 
+This course teaches the basic structure and function artificial neural networks. 
+We start with some background on deep learning, then go on to build a logistic regression unit as a single neuron of a neural network using [Numpy]().
+Next we line-up a number of these neurons into a shallow single layered neural network. 
+Then finally we stack multiple layers to build a completed deep neural network.
+
 __Author__: deeplearning.ai
 
 __Instructors__: 
