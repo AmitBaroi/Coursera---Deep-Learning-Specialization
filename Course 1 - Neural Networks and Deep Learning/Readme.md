@@ -1,5 +1,3 @@
-This course is part of the __Deep Learning Specialization__ by deeplearning.ai
-
 __Course Name__: Neural Networks and Deep Learning
 
 __Author__: deeplearning.ai
