@@ -1,6 +1,8 @@
 # [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
-This repository contains all relevant course material, instructions, notebooks, programming assignments etc. for the Deep Learning Specialization on Coursera, by Andrew Ng.
+This repository contains all relevant course material, instructions, notebooks, programming assignments etc. for the Deep Learning Specialization on Coursera, by [deeplearning.di](https://www.deeplearning.ai/). 
+
+The course instructor is [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng).
 
 ## Courses:
 
