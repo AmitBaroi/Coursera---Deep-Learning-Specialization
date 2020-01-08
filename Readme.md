@@ -10,8 +10,8 @@ The course instructor is [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng).
 
 [**2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](https://github.com/AmitBaroi/Coursera-Deep-Learning-Specialization/tree/master/Course%202%20-%20Improving%20Deep%20Neural%20Networks)
 
-**3. Structuring Machine Learning Projects**
+[**3. Structuring Machine Learning Projects**](https://github.com/AmitBaroi/Coursera---Deep-Learning-Specialization/tree/master/Course%203%20-%20Structuring%20Machine%20Learning%20Projects)
 
-**4. Convolutional Neural Networks**
+[**4. Convolutional Neural Networks**](https://github.com/AmitBaroi/Coursera---Deep-Learning-Specialization/tree/master/Course%204%20-%20Convolutional%20Neural%20Networks)
 
 **5. Sequence Models**
