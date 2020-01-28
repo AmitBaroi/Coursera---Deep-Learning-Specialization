@@ -14,4 +14,4 @@ Course instructor: [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng).
 
 [**4. Convolutional Neural Networks**](https://github.com/AmitBaroi/Coursera---Deep-Learning-Specialization/tree/master/Course%204%20-%20Convolutional%20Neural%20Networks)
 
-**5. Sequence Models**
+[**5. Sequence Models**](https://github.com/AmitBaroi/Coursera---Deep-Learning-Specialization/tree/master/Course%205%20-%20Sequence%20Models)
